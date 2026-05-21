@@ -23,6 +23,7 @@ O sistema contém perguntas sobre o universo GTA, utilizando alternativas divert
 - Sistema de pontuação
 - f-string
 - Estruturas básicas em Python
+- Tratamento de entrada com `.upper()`
 
 ---
 
@@ -44,9 +45,30 @@ python quiz.py
 
 ---
 
+## 🎯 Funcionalidades
+
+- Quiz interativo no terminal
+- Perguntas com múltiplas alternativas
+- Sistema de pontuação
+- Validação de respostas
+- Mensagem personalizada de desempenho ao final do jogo
+- Interface simples e divertida
+
+---
+
 ## 💡 Objetivo do Projeto
 
 Este projeto foi desenvolvido com o objetivo de praticar lógica de programação e os conceitos iniciais da linguagem Python de forma divertida e interativa.
+
+---
+
+## 🚀 Melhorias Futuras
+
+- Adicionar mais perguntas
+- Criar sistema de ranking
+- Implementar níveis de dificuldade
+- Adicionar cronômetro
+- Utilizar listas e funções para otimizar o código
 
 ---
 
